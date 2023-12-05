@@ -1,2 +1,2 @@
 # Ari's Dream
-CS 152 Final Project @ SJSU
+CS 174 Final Project @ SJSU
